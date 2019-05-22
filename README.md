@@ -1,5 +1,5 @@
-# Emotion Detector
-CNN to detect the emotion on a person's face.
+# Facial Expression Detector
+CNN to detect the facial expression on a person's face.
 Utilized the FER 2013 dataset to create the CNN model.
 
 
